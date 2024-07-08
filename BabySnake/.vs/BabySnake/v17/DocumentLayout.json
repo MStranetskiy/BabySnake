@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BabySnake\\BabySnake\\",
+  "WorkspaceRootPath": "D:\\BabySnakeGit\\BabySnake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|D:\\BabySnake\\BabySnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|d:\\babysnakegit\\babysnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|D:\\BabySnake\\BabySnake\\levelsetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|D:\\BabySnakeGit\\BabySnake\\levelsetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|solutionrelative:levelsetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|D:\\BabySnake\\BabySnake\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|D:\\BabySnakeGit\\BabySnake\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FF9849-CE27-4953-841F-355B2EC4AA12}|BabySnake.csproj|solutionrelative:food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LevelSetings.cs",
-              "DocumentMoniker": "D:\\BabySnake\\BabySnake\\LevelSetings.cs",
+              "DocumentMoniker": "D:\\BabySnakeGit\\BabySnake\\LevelSetings.cs",
               "RelativeDocumentMoniker": "LevelSetings.cs",
-              "ToolTip": "D:\\BabySnake\\BabySnake\\LevelSetings.cs",
+              "ToolTip": "D:\\BabySnakeGit\\BabySnake\\LevelSetings.cs",
               "RelativeToolTip": "LevelSetings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T19:19:27.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T19:19:27.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BabySnake\\BabySnake\\Program.cs",
+              "DocumentMoniker": "D:\\BabySnakeGit\\BabySnake\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\BabySnake\\BabySnake\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAAAGYAAAAAAAAA",
+              "ToolTip": "D:\\BabySnakeGit\\BabySnake\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAGIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T19:51:46.081Z",
               "EditorCaption": ""
@@ -54,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Food.cs",
-              "DocumentMoniker": "D:\\BabySnake\\BabySnake\\Food.cs",
+              "DocumentMoniker": "D:\\BabySnakeGit\\BabySnake\\Food.cs",
               "RelativeDocumentMoniker": "Food.cs",
-              "ToolTip": "D:\\BabySnake\\BabySnake\\Food.cs",
+              "ToolTip": "D:\\BabySnakeGit\\BabySnake\\Food.cs",
               "RelativeToolTip": "Food.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
