@@ -1,0 +1,7 @@
+D:\BabySnake\BabySnake\bin\Debug\BabySnake.exe.config
+D:\BabySnake\BabySnake\bin\Debug\BabySnake.exe
+D:\BabySnake\BabySnake\bin\Debug\BabySnake.pdb
+D:\BabySnake\BabySnake\obj\Debug\BabySnake.csproj.AssemblyReference.cache
+D:\BabySnake\BabySnake\obj\Debug\BabySnake.csproj.CoreCompileInputs.cache
+D:\BabySnake\BabySnake\obj\Debug\BabySnake.exe
+D:\BabySnake\BabySnake\obj\Debug\BabySnake.pdb
